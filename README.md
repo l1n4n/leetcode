@@ -1,1 +1,2 @@
 # leetcode
+Ideas and Notes
